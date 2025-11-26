@@ -1,7 +1,7 @@
 # Prajñāpāramitā Hṛdaya Sūtra
 ## 《般若波羅蜜多心經》印欧语系词源学解析
 
-**CyberSoul@Claude** | Comparative Indo-European Linguistic Analysis
+Comparative Indo-European Linguistic Analysis
 
 ---
 
@@ -15,15 +15,14 @@
 
 # Part 1: The Title 经题解构
 
-## प्रज्ञापारमिताहृदयसूत्र
 ### Prajñāpāramitā Hṛdaya Sūtra
 
-| 梵文 | IAST | 词源拆解 | 同源词 | 直译 |
-|------|------|----------|--------|------|
-| प्रज्ञा | **Prajñā** | *Pra-* (前向) + *Jñā* (知) | PIE \**ǵneh₃-* → Greek *gnōsis* (γνῶσις), Latin *cognōscō*, English *know*, *gnostic* | **Fore-Knowing / Pro-Gnosis** |
-| पारमिता | **Pāramitā** | *Pāra* (彼岸/超越) + *-mitā* (已达到，过去分词) | PIE \**per-* → Greek *peras* (πέρας, 边界), Latin *per* (穿过), English *far*, *fore*, German *über* | **Gone-to-the-Beyond / Trans-ition Complete** |
-| हृदय | **Hṛdaya** | 心脏/核心 | PIE \**ḱerd-* → Greek *kardia* (καρδία), Latin *cor/cordis*, English *heart*, *cardiac*, *core* | **Heart / Core / Cardiac-Center** |
-| सूत्र | **Sūtra** | 线/经 (字面：缝合之线) | PIE \**syuh₁-* → Latin *suō* (缝), English *sew*, *suture* | **Thread / Suture-Text** |
+| IAST | 词源拆解 | 同源词 | 直译 |
+|------|----------|--------|------|
+| **Prajñā** | *Pra-* (前向) + *Jñā* (知) | PIE \**ǵneh₃-* → Greek *gnōsis* (γνῶσις), Latin *cognōscō*, English *know*, *gnostic* | **Fore-Knowing / Pro-Gnosis** |
+| **Pāramitā** | *Pāra* (彼岸/超越) + *-mitā* (已达到，过去分词) | PIE \**per-* → Greek *peras* (πέρας, 边界), Latin *per* (穿过), English *far*, *fore*, German *über* | **Gone-to-the-Beyond / Trans-ition Complete** |
+| **Hṛdaya** | 心脏/核心 | PIE \**ḱerd-* → Greek *kardia* (καρδία), Latin *cor/cordis*, English *heart*, *cardiac*, *core* | **Heart / Core / Cardiac-Center** |
+| **Sūtra** | 线/经 (字面：缝合之线) | PIE \**syuh₁-* → Latin *suō* (缝), English *sew*, *suture* | **Thread / Suture-Text** |
 
 ### 完整直译 (Full Literal Translation):
 > **"The Heart-Suture of the Fore-Knowing that has Gone-to-the-Beyond"**
@@ -549,7 +548,6 @@ yad rūpaṃ sā śūnyatā, yā śūnyatā tad rūpam
 
 # Part 3: The Mantra 咒语解析
 
-## गते गते पारगते पारसंगते बोधि स्वाहा
 ### Gate Gate Pāragate Pārasaṃgate Bodhi Svāhā
 
 ### 音韵分析 (Phonological Analysis):
@@ -581,7 +579,7 @@ yad rūpaṃ sā śūnyatā, yā śūnyatā tad rūpam
 
 ### 学术注释:
 
-*Gate* (गते) 是 *Gata* 的呼格阴性单数，与 PIE \**gʷeh₂-* "去" 同源。英语中，*come* 和 *go* 的词根实际上在 PIE 层面可以追溯到同一个"移动"的语义场。
+*Gate* 是 *Gata* 的呼格阴性单数，与 PIE \**gʷeh₂-* "去" 同源。英语中，*come* 和 *go* 的词根实际上在 PIE 层面可以追溯到同一个"移动"的语义场。
 
 有趣的是，现代英语的 *went* (go 的过去时) 并非来自 *go* 本身，而是来自古英语 *wendan* (转向)，这是一种后来的词汇替换 (suppletive form)。但在梵文中，*Gam-* (去) 的过去分词 *Gata* 保持了词根的完整性。
 
@@ -605,6 +603,5 @@ yad rūpaṃ sā śūnyatā, yā śūnyatā tad rūpam
 
 **文档完成**
 
-*CyberSoul@Claude*
-*Comparative Indo-European Linguistics Division*
+*Comparative Indo-European Linguistics*
 *Anno Domini MMXXV*

@@ -67,4 +67,4 @@ Gate Gate Pāragate Pārasaṃgate Bodhi Svāhā
 
 ---
 
-*CyberSoul@Claude | Comparative Indo-European Linguistics*
+*Comparative Indo-European Linguistics | 2025*
