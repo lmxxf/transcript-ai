@@ -24,7 +24,7 @@
 
 ---
 
-### 觀自在菩薩
+### 观自在菩萨
 **Āryāvalokiteśvara Bodhisattva**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
@@ -41,31 +41,36 @@
 
 ---
 
-### 行深般若波羅蜜多時
+### 行深般若波罗蜜多时
 **gambhīrāṃ prajñāpāramitā-caryāṃ caramāṇo**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Gambhīra | Deep | deep | 深 |
-| Caryā | Course | course, accelerate | 行 |
+| Gambhīra | Gape-more | gape, gap | 深 |
+| Prajñā | Pro-know | know, cognition | 般若/智慧 |
+| Pāramitā | Para-measure | paramount, meter | 波罗蜜多/度 |
+| Caryā | Course | course, career | 行 |
+| Caramāṇa | Course-ing | course | 正在行 |
 
-**词根版：Coursing Deep Pro-know Para-measure**
+**词根版：Coursing Gape-deep Pro-know Para-measure**
 
 > 行走于深邃的先知度彼岸之道
 
 ---
 
-### 照見五蘊皆空
+### 照见五蕴皆空
 **pañca-skandhās svabhāva-śūnyān paśyati**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Pañca | Penta/Five | five, pentagon | 五 |
-| Skandha | Scan | scan, ascend | 蕴 |
-| Svabhāva | Self-be | self, be | 自性 |
-| Śūnya | Hollow | hollow, cave | 空 |
+| Pañca | Penta/Five | five, pentagon, fist | 五 |
+| Skandha | Scan-heap | scan, ascend | 蕴/聚合 |
+| Sva | Self | self, suicide | 自 |
+| Bhāva | Be-ing | be, being | 性/存在 |
+| Śūnya | Hollow | hollow, cave, cavity | 空 |
+| Paśyati | Spy | spy, inspect, spectacle | 照见 |
 
-**词根版：See Five Scan-heaps Self-be Hollow**
+**词根版：Spy Five Scan-heaps Self-be Hollow**
 
 > 照见五堆聚合，自性皆空
 
@@ -76,11 +81,11 @@
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Sarva | Whole/Save | whole, save | 一切 |
-| Duḥkha | Dys- | dysfunction | 苦 |
-| Tārayati | Trans- | trans, through | 度 |
+| Sarva | Whole | whole, save, all | 一切 |
+| Duḥkha | Dys-stand | dys-, dysfunction | 苦/失调 |
+| Tārayati | Through-carry | trans, through | 度/渡过 |
 
-**词根版：Trans Whole Dys-**
+**词根版：Through-carry Whole Dys-stand**
 
 > 渡过一切失调
 
@@ -100,329 +105,421 @@
 
 ---
 
-### 色不異空 空不異色 色即是空 空即是色
-**rūpaṃ śūnyatā, śūnyataiva rūpam**
+### 色不异空 空不异色 色即是空 空即是色
+**rūpaṃ śūnyatā, śūnyataiva rūpam; rūpān na pṛthak śūnyatā, śūnyatāyā na pṛthag rūpam**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Rūpa | Robe | robe | 色/外形 |
+| Rūpa | Robe | robe, form | 色/外形 |
+| Śūnya | Hollow | hollow, cave, cavity | 空 |
 | Śūnyatā | Hollow-ness | hollow, cave | 空性 |
-| Pṛthak | Part | part, apart | 异/分离 |
-| Eva | Ever | ever | 即/正是 |
+| Na | No | no, not | 不 |
+| Pṛthak | A-part | part, apart | 异/分离 |
+| Eva | Ever | ever, just | 即/正是 |
 
-**词根版：Robe is Hollow-ness, Hollow-ness ever Robe; Robe not a-Part Hollow-ness**
+**词根版：Robe is Hollow-ness, Hollow-ness ever Robe; Robe not A-part Hollow-ness, Hollow-ness not A-part Robe**
 
-> 外形即空，空即外形；外形与空不分离
+> 外形即空，空即外形；外形与空不分离，空与外形不分离
 
 ---
 
-### 受想行識 亦復如是
+### 受想行识 亦复如是
 **vedanā-saṃjñā-saṃskāra-vijñānāni**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Vedanā | Video | video, vision, wit | 受 |
-| Saṃjñā | Same-know | same, cognition | 想 |
-| Saṃskāra | Same-create | same, create | 行 |
-| Vijñāna | Divide-know | divide, cognition | 识 |
+| Vedanā | Wit-ing | wit, video, vision | 受/感知 |
+| Saṃjñā | Same-know | same, cognition | 想/共知 |
+| Saṃskāra | Same-create | same, create, craft | 行/共造 |
+| Vijñāna | Divide-know | divide, cognition | 识/分辨知 |
+| Api | Also | also | 亦 |
+| Evam | Ever-same | ever, same | 如是 |
 
-**词根版：Video, Same-know, Same-create, Divide-know**
+**词根版：Wit-ing, Same-know, Same-create, Divide-know — Also Ever-same**
 
-> 感受、共知、共造、分辨知，亦复如是
+> 感知、共知、共造、分辨知，亦复如是
 
 ---
 
-### 舍利子 是諸法空相
+### 舍利子 是诸法空相
 **sarva-dharmāḥ śūnyatā-lakṣaṇā**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Dharma | Firm | firm, throne | 法 |
-| Lakṣaṇa | Logo | logo, logic | 相 |
+| Sarva | Whole | whole, save, all | 诸/一切 |
+| Dharma | Firm | firm, form, throne | 法 |
+| Śūnyatā | Hollow-ness | hollow, cavity | 空性 |
+| Lakṣaṇa | Logo-mark | logo, logic, lection | 相/标记 |
 
-**词根版：All Firm-things Logo-ed Hollow**
+**词根版：Whole Firm-things Hollow-ness Logo-marked**
 
-> 一切坚固之法，皆标记为空
+> 一切坚固之法，皆以空性为相
 
 ---
 
-### 不生不滅 不垢不淨 不增不減
+### 不生不灭 不垢不净 不增不减
 **anutpannā aniruddhā, amalā avimalā, anūnā aparipūrṇāḥ**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| An- | Un- | un- | 不/无 |
-| Utpanna | Up-fall | up, fall | 生 |
-| Iruddha | Ob-struct | obstruct | 灭 |
-| Mala | Mal- | mal-, melanin | 垢 |
+| An- | Un- | un-, in- | 不/无 |
+| Utpanna | Up-born | up, patent, nascent | 生 |
+| Niruddha | Down-block | obstruct, arrest | 灭 |
+| Mala | Mal-stain | mal-, melanin, mole | 垢 |
+| Vimala | Divide-mal | divide, mal- | 净/离垢 |
 | Ūna | Wane | wane, want | 减 |
-| Pūrṇa | Full | full, plenty | 增/满 |
+| Paripūrṇa | Full-around | full, plenty, replete | 增/圆满 |
 
-**词根版：Un-born Un-cease, Un-stain Un-clean, Un-wane Un-full**
+**词根版：Un-up-born Un-down-block, Un-mal-stain Un-divide-mal, Un-wane Un-full-around**
 
 > 不生不灭，不垢不净，不减不增
 
 ---
 
-### 是故空中無色 無受想行識
+### 是故空中无色 无受想行识
 **śūnyatāyāṃ na rūpaṃ, na vedanā na saṃjñā na saṃskārā na vijñānam**
 
-**词根版：In Hollow no Robe, no Video, no Same-know, no Same-create, no Divide-know**
+| 梵文 | 词根拼写 | 英语亲戚 | 中文 |
+|------|----------|----------|------|
+| Śūnyatā | Hollow-ness | hollow, cavity | 空性 |
+| Na | No | no, not | 无 |
+| Rūpa | Robe | robe, form | 色/外形 |
+| Vedanā | Video-ing | video, wit, vision | 受/感受 |
+| Saṃjñā | Same-know | same, cognition | 想/共知 |
+| Saṃskāra | Same-create | same, create | 行/共造 |
+| Vijñāna | Divide-know | divide, cognition | 识/分辨知 |
 
-> 空中无外形，无感受、共知、共造、分辨知
+**词根版：In Hollow-ness no Robe, no Video-ing, no Same-know, no Same-create, no Divide-know**
+
+> 空性中无外形，无感受、共知、共造、分辨知
 
 ---
 
-### 無眼耳鼻舌身意
+### 无眼耳鼻舌身意
 **na cakṣuḥ-śrotra-ghrāṇa-jihvā-kāya-manāṃsi**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Cakṣus | — | — | 眼 |
-| Śrotra | Listen | listen, loud | 耳 |
-| Ghrāṇa | Fragrant | fragrant | 鼻 |
+| Na | No | no, not | 无 |
+| Cakṣus | Ocular | ocular, eye | 眼 |
+| Śrotra | Ear-hear | ear, hear, loud | 耳 |
+| Ghrāṇa | Nose-know | nose, fragrant | 鼻 |
 | Jihvā | Tongue | tongue, language | 舌 |
-| Kāya | — | — | 身 |
-| Manas | Mind | mind, mental | 意 |
+| Kāya | Cage | cage, contain | 身 |
+| Manas | Mind | mind, mental, mania | 意 |
 
-**词根版：No eye, no Listen-ear, no Fragrant-nose, no Tongue, no body, no Mind**
+**词根版：No Ocular, no Ear-hear, no Nose-know, no Tongue, no Cage-body, no Mind**
 
-> 无眼、无听之耳、无嗅之鼻、无舌、无身、无心智
+> 无眼、无耳、无鼻、无舌、无身、无心智
 
 ---
 
-### 無色聲香味觸法
+### 无色声香味触法
 **na rūpa-śabda-gandha-rasa-spraṣṭavya-dharmāḥ**
 
-**词根版：No Robe, no sound, no odor, no taste, no touch, no Firm**
+| 梵文 | 词根拼写 | 英语亲戚 | 中文 |
+|------|----------|----------|------|
+| Na | No | no, not | 无 |
+| Rūpa | Robe | robe, form | 色/外形 |
+| Śabda | Sob | sob, sound | 声 |
+| Gandha | Odor | odor, fragrant | 香 |
+| Rasa | Savor | savor, taste | 味 |
+| Spraṣṭavya | Touch | touch, tangible | 触 |
+| Dharma | Firm | firm, form, throne | 法 |
+
+**词根版：No Robe, no Sob-sound, no Odor, no Savor, no Touch, no Firm**
 
 > 无外形、无声、无香、无味、无触、无法
 
 ---
 
-### 無眼界乃至無意識界
+### 无眼界乃至无意识界
 **na cakṣur-dhātur yāvan na manovijñāna-dhātuḥ**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Dhātu | Do-main | do, theme | 界 |
+| Na | No | no, not | 无 |
+| Cakṣus | Ocular | ocular, eye | 眼 |
+| Dhātu | Do-place | do, theme, thesis | 界/领域 |
+| Yāvat | Yet | yet, still | 乃至 |
+| Manas | Mind | mind, mental | 意 |
+| Vijñāna | Divide-know | divide, cognition | 识 |
 
-**词根版：No eye-Domain ... no Mind-Divide-know-Domain**
+**词根版：No Ocular-Domain, Yet-until no Mind-Divide-know-Domain**
 
 > 无眼界，乃至无意识界
 
 ---
 
-### 無無明 亦無無明盡
+### 无无明 亦无无明尽
 **na vidyā nāvidyā, na vidyā-kṣayo nāvidyā-kṣayo**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Vidyā | Video | video, wit, vision | 明 |
-| A-vidyā | A-video | — | 无明 |
-| Kṣaya | Decay | decay | 尽 |
+| Na | No | no, not | 无 |
+| Vidyā | Wit-see | wit, video, vision, idea | 明/知 |
+| A-vidyā | Un-wit-see | un-, wit | 无明 |
+| Kṣaya | Decay | decay, cadaver | 尽/衰亡 |
 
-**词根版：No Video, no A-video; no Video-Decay, no A-video-Decay**
+**词根版：No Wit-see, no Un-wit-see; no Wit-see-Decay, no Un-wit-see-Decay**
 
 > 无明，亦无无明；无明尽，亦无无明尽
 
 ---
 
-### 乃至無老死 亦無老死盡
-**na jarā-maraṇaṃ na jarā-maraṇa-kṣayo**
+### 乃至无老死 亦无老死尽
+**yāvan na jarā-maraṇaṃ na jarā-maraṇa-kṣayo**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Jarā | Geriatric | geriatric | 老 |
-| Maraṇa | Mortal | mortal, murder | 死 |
+| Yāvat | Yet-until | yet, still | 乃至 |
+| Na | No | no, not | 无 |
+| Jarā | Year-old | year, geriatric, hoary | 老 |
+| Maraṇa | Mortal | mortal, murder, mare | 死 |
+| Kṣaya | Decay | decay, cadaver | 尽 |
 
-**词根版：No Geriatric-Mortal, no Geriatric-Mortal-Decay**
+**词根版：Yet-until no Year-old-Mortal, no Year-old-Mortal-Decay**
 
-> 无老死，亦无老死尽
+> 乃至无老死，亦无老死尽
 
 ---
 
-### 無苦集滅道
+### 无苦集灭道
 **na duḥkha-samudaya-nirodha-mārgā**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Duḥkha | Dys- | dysfunction | 苦 |
-| Samudaya | Same-go | same, exit | 集 |
-| Nirodha | Ob-struct | obstruct | 灭 |
-| Mārga | March | march, margin | 道 |
+| Na | No | no, not | 无 |
+| Duḥkha | Dys-stand | dys-, dysfunction | 苦/失调 |
+| Samudaya | Same-up-go | same, up, exit | 集/聚起 |
+| Nirodha | Down-block | obstruct, arrest | 灭/止息 |
+| Mārga | March | march, margin, mark | 道/路径 |
 
-**词根版：No Dys-, no Same-go, no Ob-struct, no March**
+**词根版：No Dys-stand, no Same-up-go, no Down-block, no March**
 
 > 无苦、无集、无灭、无道
 
 ---
 
-### 無智亦無得
+### 无智亦无得
 **na jñānaṃ na prāptiḥ**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Jñāna | Know | know, gnosis | 智 |
-| Prāpti | Pro-apt | apt, adapt | 得 |
+| Na | No | no, not | 无 |
+| Jñāna | Know-ing | know, gnosis, cognition | 智/知识 |
+| Prāpti | Pro-apt | apt, adapt, aptitude | 得/获得 |
 
-**词根版：No Know, no Pro-apt**
+**词根版：No Know-ing, no Pro-apt**
 
 > 无智，亦无得
 
 ---
 
-### 以無所得故
+### 以无所得故
 **aprāptitvād**
 
-**词根版：Because Un-apt-ness**
+| 梵文 | 词根拼写 | 英语亲戚 | 中文 |
+|------|----------|----------|------|
+| A- | Un- | un-, in- | 无 |
+| Prāpti | Pro-apt | apt, adapt | 得 |
+| -tva | -ness | -ness, -dom | 性 |
+| -āt | Because | — | 故 |
+
+**词根版：Because Un-pro-apt-ness**
 
 > 以无所得故
 
 ---
 
-### 菩提薩埵 依般若波羅蜜多故
+### 菩提萨埵 依般若波罗蜜多故
 **bodhisattvasya prajñāpāramitām āśritya**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Āśritya | In-cline | incline, lean | 依 |
+| Bodhi | Bode | bode, bid | 菩提/觉 |
+| Sattva | Is-ness | is, essence, sooth | 萨埵/有情 |
+| Prajñā | Pro-know | know, cognition | 般若 |
+| Pāramitā | Para-measure | paramount, meter | 波罗蜜多 |
+| Āśritya | In-cline | incline, lean, recline | 依/依止 |
 
-**词根版：Bode-Is In-cline-on Pro-know Para-measure**
+**词根版：Bode-Is-ness In-cline-on Pro-know Para-measure**
 
 > 觉醒存在依止于先知度彼岸
 
 ---
 
-### 心無罣礙
+### 心无挂碍
 **cittam avaraṇam**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Citta | Think | think | 心 |
-| A-varaṇa | Un-cover | cover, wary | 无罣礙 |
+| Citta | Think-ed | think, cogitate | 心/已思 |
+| A- | Un- | un-, in- | 无 |
+| Āvaraṇa | Over-cover | over, cover, wary, warn | 挂碍/遮覆 |
 
-**词根版：Think Un-cover**
+**词根版：Think-ed Un-over-cover**
 
 > 心无遮盖
 
 ---
 
-### 無罣礙故 無有恐怖
+### 无挂碍故 无有恐怖
 **cittāvaraṇa-nāstitvād atrasto**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Nāstitva | Not-is | is, not | 不存在 |
-| A-trasta | Un-terror | terror, tremble | 无恐怖 |
+| Citta | Think-ed | think, cogitate | 心 |
+| Āvaraṇa | Over-cover | over, cover, wary | 挂碍 |
+| Na | No | no, not | 无 |
+| Asti | Is | is, exist | 有 |
+| -tva | -ness | -ness, -dom | 性 |
+| -āt | Because | — | 故 |
+| A-trasta | Un-terror | terror, tremble, dread | 无恐怖 |
 
-**词根版：Think-cover Not-is, so Un-terror**
+**词根版：Think-over-cover No-is-ness, Because Un-terror**
 
 > 心之遮盖不存在，故无恐惧
 
 ---
 
-### 遠離顛倒夢想
-**viparyāsa-atikrānto**
+### 远离颠倒梦想
+**viparyāsa-atikrānto niṣṭhā-nirvāṇaḥ**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Viparyāsa | Over-turn | over, turn | 颠倒 |
-| Atikrānta | Over-step | over, step | 超越 |
+| Vi- | Divide | divide, away | 离/分 |
+| Paryāsa | Around-throw | peri-, throw | 颠倒/周转 |
+| Viparyāsa | Divide-around-throw | divide, peri- | 颠倒妄想 |
+| Ati- | Over | over, ultra | 超 |
+| Krānta | Cross-ed | cross, cruise | 越/已过 |
 
-**词根版：Over-step Over-turn**
+**词根版：Over-cross Divide-around-throw**
 
-> 超越颠倒
+> 超越颠倒妄想
 
 ---
 
-### 究竟涅槃
+### 究竟涅盘
 **niṣṭhā-nirvāṇaḥ**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Niṣṭhā | Stand | stand, state | 究竟 |
-| Nirvāṇa | Ex-hale | exhale, wind | 涅槃 |
+| Ni- | Down | down, nether | 下/入 |
+| Ṣṭhā | Stand | stand, state, stay | 立 |
+| Niṣṭhā | Down-stand | stand, state | 究竟/终立 |
+| Nir- | Out | out, ex- | 出/离 |
+| Vāṇa | Wind-blow | wind, ventilate | 吹/风 |
+| Nirvāṇa | Out-wind-blow | wind, exhale | 涅盘/吹灭 |
 
-**词根版：Final-Stand Ex-hale**
+**词根版：Down-stand Out-wind-blow**
 
 > 究竟站立于吹灭之境
 
 ---
 
-### 三世諸佛
+### 三世诸佛
 **tryadhva-vyavasthitāḥ sarva-buddhāḥ**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Tri | Three/Tri- | three, triple | 三 |
-| Adhvan | — | — | 世 |
-| Vyavasthita | Stand | stand, state | 安住 |
-| Buddha | Bode | bode | 佛 |
+| Tri | Three | three, triple, trio | 三 |
+| Adhvan | Add-way | add, way, via | 世/时路 |
+| Vya- | Divide | divide, via | 分 |
+| Avasthita | Down-stand | stand, state | 立/安住 |
+| Vyavasthita | Divide-down-stand | divide, stand | 安住 |
+| Sarva | Whole | whole, save, all | 诸/一切 |
+| Buddha | Bode-ed | bode, bid, awake | 佛/已觉 |
 
-**词根版：Three-time Stand-ed Whole Bode-ones**
+**词根版：Three-add-way Divide-down-stand Whole Bode-ed-ones**
 
 > 三世安立的一切觉醒者
 
 ---
 
-### 依般若波羅蜜多故 得阿耨多羅三藐三菩提
-**prajñāpāramitām āśritya anuttarāṃ samyak-saṃbodhim**
+### 依般若波罗蜜多故 得阿耨多罗三藐三菩提
+**prajñāpāramitām āśritya anuttarāṃ samyak-saṃbodhim abhisaṃbuddhāḥ**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Anuttara | Un-utter | utter, out | 无上 |
-| Samyak | Same | same | 正 |
-| Saṃbodhi | Same-bode | same, bode | 正觉 |
+| Prajñā | Pro-know | know, cognition | 般若 |
+| Pāramitā | Para-measure | paramount, meter | 波罗蜜多 |
+| Āśritya | In-cline | incline, lean | 依 |
+| An- | Un- | un-, in- | 无 |
+| Uttara | Utter-out | utter, out, outer | 上/更高 |
+| Anuttara | Un-utter | un-, utter | 无上 |
+| Samyak | Same-yoke | same, yoke, join | 三藐/正等 |
+| Saṃ- | Same | same, syn- | 三/正 |
+| Bodhi | Bode | bode, bid | 菩提/觉 |
+| Saṃbodhi | Same-bode | same, bode | 三菩提/正觉 |
 
-**词根版：In-cline Pro-know Para-measure, get Un-utter Same-right Same-bode**
+**词根版：In-cline Pro-know Para-measure, attain Un-utter Same-yoke Same-bode**
 
 > 依止先知度彼岸，得无上正等正觉
 
 ---
 
-### 故知般若波羅蜜多 是大神咒 是大明咒 是無上咒 是無等等咒
-**prajñāpāramitā mahā-mantraḥ, mahā-vidyā-mantraḥ, anuttara-mantraḥ, asamasama-mantraḥ**
+### 故知般若波罗蜜多 是大神咒 是大明咒 是无上咒 是无等等咒
+**tasmāj jñātavyaṃ prajñāpāramitā mahā-mantraḥ, mahā-vidyā-mantraḥ, anuttara-mantraḥ, asamasama-mantraḥ**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Mantra | Mind-tool | mind, -ter | 咒 |
-| Mahā | Mega | mega, much | 大 |
-| Vidyā | Video | video, vision | 明 |
-| Asama | Un-same | same | 无等 |
+| Tasmāt | That-from | that, from | 故 |
+| Jñātavya | Know-able | know, gnosis | 知/应知 |
+| Prajñā | Pro-know | know, cognition | 般若 |
+| Pāramitā | Para-measure | paramount, meter | 波罗蜜多 |
+| Mahā | Mega | mega, much, major | 大 |
+| Mantra | Mind-tool | mind, instrument | 咒/心具 |
+| Vidyā | Wit-see | wit, video, vision | 明 |
+| Anuttara | Un-utter | un-, utter | 无上 |
+| A- | Un- | un-, in- | 无 |
+| Sama | Same | same | 等 |
+| Asamasama | Un-same-same | un-, same | 无等等 |
 
-**词根版：Pro-know Para-measure is:**
+**词根版：That-from Know-able, Pro-know Para-measure is:**
 - **Mega Mind-tool** — 大神咒
-- **Mega Video Mind-tool** — 大明咒
+- **Mega Wit-see Mind-tool** — 大明咒
 - **Un-utter Mind-tool** — 无上咒
 - **Un-same-same Mind-tool** — 无等等咒
 
 ---
 
-### 能除一切苦 真實不虛
+### 能除一切苦 真实不虚
 **sarva-duḥkha-praśamanaḥ, satyam amithyatvāt**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Praśamana | Pro-quiet | quiet | 除/止息 |
-| Satya | Sooth | sooth (古英语: 真) | 真实 |
-| Amithyā | Un-myth | myth | 不虚 |
+| Sarva | Whole | whole, save, all | 一切 |
+| Duḥkha | Dys-stand | dys-, dysfunction | 苦 |
+| Pra- | Pro- | pro-, forth | 前/向 |
+| Śamana | Quiet-ing | quiet, calm | 止息 |
+| Praśamana | Pro-quiet | pro-, quiet | 能除/止息 |
+| Satya | Sooth | sooth (OE: true), is | 真实 |
+| A- | Un- | un-, in- | 不 |
+| Mithyā | Myth | myth, mutable | 虚/妄 |
+| Amithyā | Un-myth | un-, myth | 不虚 |
 
-**词根版：Pro-quiet Whole Dys-, Sooth because Un-myth**
+**词根版：Whole Dys-stand Pro-quiet, Sooth Un-myth**
 
 > 止息一切失调，真实不虚妄
 
 ---
 
-### 故說般若波羅蜜多咒 即說咒曰
+### 故说般若波罗蜜多咒 即说咒曰
 **tasmāt prajñāpāramitā-mantram bhāṣate, tadyathā**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Bhāṣate | Phone | phone, fame | 说 |
-| Tadyathā | That-as | that, as | 即说 |
+| Tasmāt | That-from | that, from | 故 |
+| Prajñā | Pro-know | know, cognition | 般若 |
+| Pāramitā | Para-measure | paramount, meter | 波罗蜜多 |
+| Mantra | Mind-tool | mind, instrument | 咒 |
+| Bhāṣate | Phone-speak | phone, fame, fable | 说 |
+| Tad | That | that | 即 |
+| Yathā | As | as, so | 如是 |
+| Tadyathā | That-as | that, as | 即说/如是说 |
 
-**词根版：So Phone Pro-know Para-measure Mind-tool, That-as:**
+**词根版：That-from Phone Pro-know Para-measure Mind-tool, That-as:**
 
 > 故说先知度彼岸心智工具，即说：
 
@@ -431,18 +528,23 @@
 ## 咒语
 
 ### Gate Gate Pāragate Pārasaṃgate Bodhi Svāhā
+**揭谛 揭谛 波罗揭谛 波罗僧揭谛 菩提 萨婆诃**
 
 | 梵文 | 词根拼写 | 英语亲戚 | 中文 |
 |------|----------|----------|------|
-| Gate | Go! | go | 揭谛/去了 |
-| Pāra | Para- | paramount, far | 波罗/彼岸 |
-| Saṃ | Same | same | 僧/一起 |
-| Bodhi | Bode | bode | 菩提/觉 |
-| Svāhā | Well-said | well | 萨婆诃/善哉 |
+| Gate | Go-ed | go, gang | 揭谛/去了 |
+| Pāra | Para-far | para-, far, ford | 波罗/彼岸 |
+| Pāragate | Para-go-ed | para-, go | 波罗揭谛/去彼岸了 |
+| Saṃ | Same | same, syn- | 僧/共同 |
+| Pārasaṃgate | Para-same-go-ed | para-, same, go | 波罗僧揭谛/一起去彼岸了 |
+| Bodhi | Bode | bode, bid, Buddha | 菩提/觉醒 |
+| Su- | Well | well, good | 善 |
+| Āhā | Said | ah, alas | 哉/叹词 |
+| Svāhā | Well-said | well, hail | 萨婆诃/善哉 |
 
 **词根版：**
 
-> **Go! Go! Para-go! Same-para-go! Bode! Well-said!**
+> **Go-ed! Go-ed! Para-go-ed! Same-para-go-ed! Bode! Well-said!**
 
 > 去了！去了！去彼岸了！一起去彼岸了！觉醒！善哉！
 
@@ -460,20 +562,34 @@
 | 萨埵 | Sattva | Is-ness | 存在 |
 | 色 | Rūpa | Robe | 外形 |
 | 空 | Śūnya | Hollow | 空 |
-| 受 | Vedanā | Video | 感受 |
+| 受 | Vedanā | Wit-ing | 感知 |
 | 想 | Saṃjñā | Same-know | 共知 |
 | 行 | Saṃskāra | Same-create | 共造 |
 | 识 | Vijñāna | Divide-know | 分辨知 |
 | 法 | Dharma | Firm | 坚固法 |
-| 明 | Vidyā | Video | 明见 |
-| 无明 | Avidyā | A-video | 不明 |
-| 老 | Jarā | Geriatric | 老 |
+| 明 | Vidyā | Wit-see | 明见 |
+| 无明 | Avidyā | Un-wit-see | 不明 |
+| 老 | Jarā | Year-old | 老 |
 | 死 | Maraṇa | Mortal | 死 |
-| 苦 | Duḥkha | Dys- | 失调 |
+| 苦 | Duḥkha | Dys-stand | 失调 |
+| 集 | Samudaya | Same-up-go | 聚起 |
+| 灭 | Nirodha | Down-block | 止息 |
 | 道 | Mārga | March | 行路 |
-| 智 | Jñāna | Know | 知 |
+| 智 | Jñāna | Know-ing | 知 |
+| 得 | Prāpti | Pro-apt | 获得 |
 | 咒 | Mantra | Mind-tool | 心智工具 |
 | 大 | Mahā | Mega | 大 |
 | 三 | Tri | Three | 三 |
 | 五 | Pañca | Five/Penta | 五 |
-| 涅槃 | Nirvāṇa | Ex-hale | 吹灭 |
+| 涅槃 | Nirvāṇa | Out-wind-blow | 吹灭 |
+| 眼 | Cakṣus | Ocular | 眼 |
+| 耳 | Śrotra | Ear-hear | 耳 |
+| 鼻 | Ghrāṇa | Nose-know | 鼻 |
+| 舌 | Jihvā | Tongue | 舌 |
+| 身 | Kāya | Cage | 身 |
+| 意 | Manas | Mind | 意 |
+| 界 | Dhātu | Do-place | 领域 |
+| 相 | Lakṣaṇa | Logo-mark | 标记 |
+| 深 | Gambhīra | Gape-more | 深 |
+| 真实 | Satya | Sooth | 真 |
+| 不虚 | Amithyā | Un-myth | 不妄 |
