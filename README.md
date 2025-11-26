@@ -121,4 +121,40 @@ Gate Gate Pāragate Pārasaṃgate Bodhi Svāhā
 
 ---
 
+## 前人做过什么？我们做了什么？
+
+### 已有工作
+
+| 方向 | 代表人物 | 成果 |
+|------|----------|------|
+| 梵中英对照翻译 | 孔兹(Edward Conze, 1957) | 英译本标准本，学术界通用 |
+| 梵文词根学术解析 | Jayarava等学者 | 证明hṛdaya-heart-cardiac同源 |
+| 多语言对勘 | 夏坝仁波切(2008) | 梵藏汉英广本心经对勘 |
+
+孔兹本人说过：
+> "梵文词根的意义很重要，但翻译成英文时词根意义就被削弱了，整段经文论述的完整性就被破坏。"
+
+**他意识到了问题，但没有做词根级还原。**
+
+### 本项目的独特价值
+
+| 维度 | 前人 | 我们 |
+|------|------|------|
+| 目标 | 学术翻译 | **词根考古** |
+| 受众 | 专业读者 | **普通人能看懂** |
+| 方法 | 意译为主 | **PIE词根→英语同源词** |
+| 呈现 | 论文体 | **演示材料**（轴孔不正、吹蜡烛） |
+
+**我们的工作：完成词根级还原，并以直观方式呈现。**
+
+---
+
 **完整逐句解析**：[Heart_Sutra_Etymological_Analysis.md](./Heart_Sutra_Etymological_Analysis.md)
+
+---
+
+## 参考资料
+
+- [Jayarava's Raves: Placing the Heart in Indo-European](http://jayarava.blogspot.com/2014/08/placing-heart-in-indo-european.html)
+- [Heart Sutra - Wikipedia](https://en.wikipedia.org/wiki/Heart_Sutra)
+- [《心经》：爱德华·孔兹英译本与玄奘译本的对比](https://news.qq.com/rain/a/20241030A0AL5800)
