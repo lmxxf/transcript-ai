@@ -37,7 +37,7 @@ Gate Gate Pāragate Pārasaṃgate Bodhi Svāhā
 | Pāra | *per- (穿过) | **far**, para-, ford | 彼岸/远方 |
 | Saṃ | *sem- (一) | **same**, syn- | 一起 |
 | Bodhi | *bheudh- (觉察) | **bode**, bid | 觉醒 |
-| Svāhā | *su- (善) + 感叹 | **well**, hail | 善哉！ |
+| Svāhā | su(善) + āhā(叹词) → **well** | 好啊！成了！ |
 
 **词根直译：**
 
@@ -113,11 +113,11 @@ Gate Gate Pāragate Pārasaṃgate Bodhi Svāhā
 
 | 佛经术语 | 梵文 | 词根直译 | 原来是这意思 |
 |----------|------|----------|--------------|
-| 涅盘 | Nirvāṇa | Out-wind-blow | 把烛火吹灭 |
-| 般若 | Prajñā | Pro-know | 先于经验的知 |
-| 空 | Śūnya | Hollow | 空腔/中空 |
-| 苦 | Duḥkha | Dys-stand | 系统失调 |
-| 无明 | Avidyā | Un-wit | 没看见 |
+| 涅盘 | Nir-vāṇa | nir(出) + vāṇa(吹) → wind | 吹灭（像吹蜡烛） |
+| 般若 | Pra-jñā | pra(前) + jñā(知) → know | 先于经验的知 |
+| 空 | Śūnya | śū(膨胀) → swell, hollow | 中空（气球鼓起来里面是空的） |
+| 苦 | Duḥ-kha | duḥ(坏) + kha(轴孔) → dys- | 轴孔不正（车轮歪了，一路颠） |
+| 无明 | A-vidyā | a(不) + vid(看) → video, wit | 没看见 |
 
 ---
 
